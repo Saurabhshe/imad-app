@@ -5,6 +5,7 @@
                 Height: 700px;
                 width: 100%;
             }
+            
             #header-text {
                 margin: 0 auto;
                 position: Relative;
@@ -12,6 +13,7 @@
                 top: 25%;
                 width: 60%;
             }
+            
             p {
                 font-family: Georgia, serif;
             }
