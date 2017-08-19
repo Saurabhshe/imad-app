@@ -24,7 +24,7 @@
                 color: Darkslategray;
                 font-family: sarif;
                 width: 50%;
-                position: static;
+                background-position: center;
             }
             
             #header-text {
