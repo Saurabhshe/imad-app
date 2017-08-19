@@ -6,6 +6,10 @@
                 width: 100%;
             }
             
+            h1 {
+                font-size: 200px;
+            }
+            
             #header-text {
                 margin: 0 auto;
                 position: Relative;
