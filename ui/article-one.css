@@ -12,6 +12,19 @@
                 font-family: sarif;
             }
             
+            h2 {
+                font-size: 60px;
+                color: Darkslategray;
+                font-family: sarif;
+            }
+            
+            h3 {
+                font-size: 100px;
+                color: Darkslategray;
+                font-family: sarif;
+                width: 50%;
+            }
+            
             #header-text {
                 margin: 0 auto;
                 position: Relative;
