@@ -23,7 +23,7 @@
                 color: Darkslategray;
                 font-family: sarif;
                 width: 50%;
-                position: center;
+                position: static;
             }
             
             #header-text {
