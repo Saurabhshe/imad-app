@@ -21,21 +21,43 @@ body {
 }
 
 .header {
-    background-image: url("https://images3.publicschoolreview.com/article/462x462/1000/665/Tuition-for-Public-Schools-Some-Districts-are-Saying-Yes--pEN7c4.jpg");
-    background-position: center;
-    background-size: cover;
-    Height: 700px;
-    width: 100%;
-}
+                background-image: url("https://images3.publicschoolreview.com/article/462x462/1000/665/Tuition-for-Public-Schools-Some-Districts-are-Saying-Yes--pEN7c4.jpg");
+                background-position: center;
+                background-size: cover;
+                Height: 700px;
+                width: 100%;
+            }
             
-#header-text {
-    margin: 0 auto;
-    position: Relative;
-    text-align: center;
-    top: 25%;
-    width: 60%;
-}
+            h1 {
+                font-size: 100px;
+                color: Darkslategray;
+                font-family: sarif;
+            }
             
-p {
-    font-family: Georgia, serif;
-}
+            h3 {
+                font-size:50px;
+                color: Darkslategray;
+                font-family: sarif;
+                top: 25%;
+            }
+            
+            h5 {
+                font-size: 30px;
+                color: Darkslategray;
+                font-family: sarif;
+                width: 50%;
+                background-position: center;
+                padding-left: 200px;
+            }
+            
+            #header-text {
+                margin: 0 auto;
+                position: Relative;
+                text-align: center;
+                top: 25%;
+                width: 60%;
+            }
+            
+            p {
+                font-family: Georgia, serif;
+            }
